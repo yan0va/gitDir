@@ -1,4 +1,4 @@
-#GitHub
+##GitHub
 
 ###Makers Academy Week 1 Exercise: Learning Git Basics
 
